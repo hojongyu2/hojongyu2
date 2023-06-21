@@ -4,9 +4,11 @@ I'm Ho Jong, 	:us: US Army veteran and Fullstack developer from Korea! :kr:
 <br>
 <br>
 
-- 🔭 I’m currently working with [Code Platoon](https://www.codeplatoon.org/)  
+- 🎓 I’m a recent [Code Platoon](https://www.codeplatoon.org/) graduate.
   
-- 🌱 I’m currently learning Python and Javascript
+- 🌱 I’m currently working as a freelancer.
+
+- 💺 My most current/active project is building an automated volunteer scheduler for hospital in Chicago. 
 
 - 📫 How to reach me: yuhojo91@gmail.com
 
